@@ -1,6 +1,7 @@
 {
  "work": "新古今和歌集",
  "work_id": "kt-shinkokin",
+ "repo": "kumoi-no-fumigura/shinkokin-wakashu",
  "yomi": "しんこきんわかしゅう",
  "category": "勅撰集",
  "kind": "kashu",
@@ -23769,6 +23770,5 @@
    "text": "やみはれて心の空にすむ月は西の山邊やちかくなるらむ",
    "sachu": ""
   }
- ],
- "repo": "kumoi-no-fumigura/shinkokin-wakashu"
+ ]
 }
